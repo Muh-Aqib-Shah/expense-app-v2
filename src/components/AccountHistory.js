@@ -16,6 +16,6 @@ export const History = () => {
         <Transaction transaction={action}/>
       ))}
       <hr/>
-        </div>
+        </div> 
         
 )}
